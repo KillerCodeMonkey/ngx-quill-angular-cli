@@ -6,7 +6,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
-    "build:deploy": "npm run build && gh-pages -d ./dist",
+    "build:deploy": "npm run build -- --base-href /ngx-quill-angular-cli/ && gh-pages -d ./dist",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
