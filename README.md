@@ -1,3 +1,5 @@
+# DEPRECATED - USER [ngx-quill-example repo](https://github.com/KillerCodeMonkey/ngx-quill-example) 
+
 # ngx-quill-angular-cli
 
 The demo app for the usage of the [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) module with the angular-cli.
