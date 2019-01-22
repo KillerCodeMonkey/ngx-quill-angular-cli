@@ -1,4 +1,4 @@
-# DEPRECATED - USER [ngx-quill-example repo](https://github.com/KillerCodeMonkey/ngx-quill-example) 
+# DEPRECATED - USE [ngx-quill-example repo](https://github.com/KillerCodeMonkey/ngx-quill-example) 
 
 # ngx-quill-angular-cli
 
